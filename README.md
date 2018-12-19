@@ -11,3 +11,5 @@ For example:
 ```
 $ C:\...\some folder with the game>ruby magic_ball.rb
 ```
+
+Information taken from https://ru.wikipedia.org/wiki/Magic_8_ball
