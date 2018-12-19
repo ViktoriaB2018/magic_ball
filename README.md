@@ -8,5 +8,5 @@ To start the game, download and run in the current directory.
 For example:
 
 ```
-$ C:\...\magic_ball>ruby magic_ball.rb
+$ C:\...\some folder with the game>ruby magic_ball.rb
 ```
